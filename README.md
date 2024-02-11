@@ -12,6 +12,19 @@ Para mais informações sobre a trilha de formação, visite a [Proz Educação]
 - [Wanessa Maria dos Santos](https://github.com/WanessaMSantos)
 
 ### Sobre o projeto:
-
+Um site informativo sobre o mundo do café especial, com uma pegada visual, com fotos de fotógrafa parceira. 
 
 ### Sprint 1:
+
+Consiste no desenho da ideia do site, isto é, no esboço gráfico das cinco páginas a serem desenvolvidas.  
+
+Página 1 (inicial): Origens do café de especialidade  
+**Responsável: Maria Clara**  
+Página 2: O que é café de especialidade  
+**Responsável: Simone**  
+Página 3: Bebidas café e drinks com café (mixologia)  
+**Responsável: Wanessa**  
+Página 4: Espaço para usuários do site colocarem fotos dos cafés que tomam  
+**Responsável: Lenilson**  
+Página 5: Contatos e referências (do café e da fotógrafa)  
+**Responsável: Ashley**
