@@ -17,5 +17,8 @@
     - comunicação, 
     - senso crítico, 
     - criatividade.  
-    
+
 **A nota final será a média das 4 sprints + apresentação final**
+
+### Sprint 1 - Layout
+![Avaliação Sprint 1-Layout](/Avaliacao-BootCamp/sprint-1-avaliacao.png)
