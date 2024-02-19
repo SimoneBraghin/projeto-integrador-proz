@@ -5,9 +5,9 @@ Capacitação Gratuita em Introdução à Programação e Nuvem AWS** da Proz Ed
 Para mais informações sobre a trilha de formação, visite a [Proz Educação](https://pages.prozeducacao.com.br/lp-proz-tecnologia-talento-cloud).
 
 ## Integrantes do Grupo 2:
-- [Ashley Scarllet de Souza Lopes]()
+- [Ashley Scarllet de Souza Lopes](https://github.com/AshleyScarllet)
 - [Lenilson Figueiredo](https://github.com/lenilsonfigueriedobr)
-- [Maria Clara Felipe de Souza Borges Gonçalves]()
+- [Maria Clara Felipe de Souza Borges Gonçalves](https://github.com/MariaClborges)
 - [Simone Braghin](https://github.com/SimoneBraghin)
 - [Wanessa Maria dos Santos](https://github.com/WanessaMSantos)
 
@@ -28,3 +28,4 @@ Página 4: Espaço para usuários do site colocarem fotos dos cafés que tomam
 **Responsável: Lenilson**  
 Página 5: Contatos e referências (do café e da fotógrafa)  
 **Responsável: Ashley**
+
