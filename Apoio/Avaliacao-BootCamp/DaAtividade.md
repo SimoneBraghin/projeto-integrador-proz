@@ -6,7 +6,7 @@
 3. Quantidade total das entrefas
 4. Participação em sala de aula
 
-![FHAV](/Avaliacao-BootCamp/FHAV.png)
+![FHAV](/Apoio/Avaliacao-BootCamp/FHAV.png)
 
 ## Avaliação Projeto Integrador
 1. Etapas do projeto foram cumpridas conforme cronograma
@@ -21,4 +21,4 @@
 **A nota final será a média das 4 sprints + apresentação final**
 
 ### Sprint 1 - Layout
-![Avaliação Sprint 1-Layout](/Avaliacao-BootCamp/sprint-1-avaliacao.png)
+![Avaliação Sprint 1-Layout](/Apoio/Avaliacao-BootCamp/sprint-1-avaliacao.png)
