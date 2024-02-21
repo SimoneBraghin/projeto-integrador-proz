@@ -17,18 +17,23 @@ Cada página conterá textos e fotos sobre o mundo cafeínado, segmentados em ci
 
 ### Sprint 1:
 
-Consiste no desenho da ideia do site, isto é, no esboço gráfico das cinco páginas a serem desenvolvidas.  
+Consiste no desenho (scratch) da ideia do site, isto é, no esboço gráfico das cinco páginas a serem desenvolvidas.  
 
-Página 1 (inicial): Origens do café de especialidade  
-**Responsável: Maria Clara**  
-Página 2: O que é café de especialidade  
-**Responsável: Simone**  
-Página 3: Bebidas café e drinks com café (mixologia)  
-**Responsável: Wanessa**  
-Página 4: Espaço para usuários do site colocarem fotos dos cafés que tomam  
-**Responsável: Lenilson**  
-Página 5: Contatos e referências (do café e da fotógrafa)  
-**Responsável: Ashley**
+**Página 1 (inicial): Origens do café de especialidade**  
+*Responsável: Maria Clara*  
+(não performou. Por isso, a head do squad fez a atividade na íntegra)  
+  
+**Página 2: O que é café de especialidade**  
+*Responsável: Simone*  
+  
+**Página 3: Bebidas café e drinks com café (mixologia)**  
+*Responsável: Wanessa*  
+  
+**Página 4: Espaço para usuários do site colocarem fotos dos cafés que tomam**  
+*Responsável: Lenilson*  
 
-- Edição de imagem e criação de ícone: Simone Braghin
-- Head do Squad na sprint: Simone Braghin
+**Página 5: Contatos e referências (do café e da fotógrafa)**  
+*Responsável: Ashley*  
+  
+- Edição de imagem para a criação de ícone: Simone Braghin
+- Head do Squad na sprint 1: Simone Braghin
