@@ -12,7 +12,7 @@
 *Responsável: Ashley*
 
 **Cores (HEX):**  
-A Isabela Fagundes, fotógrafa e publicitária que faremos a parceria das fotos, passou as seguintes sugestões de cores para nossa paleta. Elas explicou os motivos de tais sugestões com base nos estudos sobre cores e publicidade.  
+A Isabela Cagnin, fotógrafa e publicitária que faremos a parceria das fotos, passou as seguintes sugestões de cores para nossa paleta. Elas explicou os motivos de tais sugestões com base nos estudos sobre cores e publicidade.  
 Fica a critério do grupo o aceite das sugestões ou sua negativa. Em caso de negativa, favor sermos propositivos e apresentar uma contraproposta.  
 
 1. **Principal/fundo**  
@@ -27,3 +27,8 @@ Mais marcante, recomendado para detalhes, traços, divisórias
 
 
 **Dimensão das páginas:**
+
+- Precisamos padronizar para próximo sprint
+
+**Fonte de fotos (drive)**:
+[Drive colaborativo](https://drive.google.com/file/d/1_sQlSqeYLP3N7mwsXiKJ0d13pxJz4u6w/view?usp=sharing)

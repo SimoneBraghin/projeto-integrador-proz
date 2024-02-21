@@ -12,7 +12,8 @@ Para mais informações sobre a trilha de formação, visite a [Proz Educação]
 - [Wanessa Maria dos Santos](https://github.com/WanessaMSantos)
 
 ### Sobre o projeto:
-Um site informativo sobre o mundo do café especial, com uma pegada visual, com fotos de fotógrafa parceira. 
+Um blog informativo sobre o mundo do café de especialidade, com uma pegada visual, com fotos de fotógrafa parceira - divulgando o trabalho da mesma bem como tópicos relacionados ao universo do café.  
+Cada página conterá textos e fotos sobre o mundo cafeínado, segmentados em cinco páginas e cinco tópicos, conforme divisão abaixo elencada.
 
 ### Sprint 1:
 
@@ -29,3 +30,5 @@ Página 4: Espaço para usuários do site colocarem fotos dos cafés que tomam
 Página 5: Contatos e referências (do café e da fotógrafa)  
 **Responsável: Ashley**
 
+- Edição de imagem e criação de ícone: Simone Braghin
+- Head do Squad na sprint: Simone Braghin
