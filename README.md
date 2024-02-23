@@ -37,3 +37,8 @@ Consiste no desenho (scratch) da ideia do site, isto é, no esboço gráfico das
   
 - Edição de imagem para a criação de ícone: Simone Braghin
 - Head do Squad na sprint 1: Simone Braghin
+
+### Sprint 2:
+Alterações realizadas por Lenilson 23/02/24
+
+
