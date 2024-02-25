@@ -20,5 +20,8 @@
 
 **A nota final será a média das 4 sprints + apresentação final**
 
-### Sprint 1 - Layout
+### Sprint I - Layout
 ![Avaliação Sprint 1-Layout](/Apoio/Avaliacao-BootCamp/sprint-1-avaliacao.png)
+
+### Sprint II - Telas
+![Avaliação Sprint 2-Telas](/Apoio/Avaliacao-BootCamp/sprint-2-avalicao.png)

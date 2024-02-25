@@ -41,12 +41,13 @@ Consiste no desenho (scratch) da ideia do site, isto é, no esboço gráfico das
 ### Sprint 2:
 Alterações realizadas por Lenilson 23/02/24
 
-Com base nós templates criados por todos(as) do Grupo 02.
+- Lenilson fez, com base nós templates criados por todos(as) do Grupo 02.
 Fiz a transquição para HTML, de foram simples e termos um ponto de partida para melhorias e demais atualizações.
 
-Foram criadas as 5 paginas principais do projeto em HTML e deixado o mesmo Menu, cabeçalho e Rodape nelas.
+- Lenilson ... Foram criadas as 5 paginas principais do projeto em HTML e deixado o mesmo Menu, cabeçalho e Rodape nelas.
 Feito o menu utilizavél, sendo que podemos mudar de paginas pelo menu.
 
-Como já temos um agendamento de reunião em grupo, seguimos com as pautas para as demais decisões e alinhamentos.
+- Lenilson Como já temos um agendamento de reunião em grupo, seguimos com as pautas para as demais decisões e alinhamentos.
 
+- 
 ### --------------------------------------------------------------------------------------- ## 

@@ -18,5 +18,11 @@ https://www.youtube.com/watch?v=Mm7e7kXMMHo
 
 https://www.youtube.com/watch?v=192oIv_XdyM
 
-**Fonte de fotos (drive)**:
-[Drive colaborativo](https://drive.google.com/file/d/1_sQlSqeYLP3N7mwsXiKJ0d13pxJz4u6w/view?usp=sharing)
+
+https://www.noticiasaominuto.com/lifestyle/2504881/neurologista-recomenda-que-junte-isto-ao-cafe-o-cerebro-agradece
+
+
+Dica professor:
+
+1. fazer primeiro o que conseguimos entregar na próxima sprint
+(html) sem parte de design ainda 
