@@ -4,9 +4,10 @@
             margin: 0;
             padding: 0;
             text-align: center;
+            background-color: #f7eee6;
         }
         header, nav, footer {
-            background-color: #ffeecc; /* Cor de fundo */
+            background-color: #3a221a; /* Cor de fundo */
             padding: 20px;
             text-align: center;
         }
