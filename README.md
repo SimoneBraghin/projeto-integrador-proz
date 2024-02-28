@@ -63,10 +63,10 @@ Alterações realizadas 27/02/24
 
 - Lenilson criou um arquivo scripts.js onde tem um back-end da pagina 4 (Compartilhe conosco);
 
-- Pagina funcionando, porém, Os post ficam apresentados somente entao nao atualiza a pagina, visto que nao tem conexão com banco de dados ainda.
+- Lenilson Pagina funcionando, porém, Os post ficam apresentados somente entao nao atualiza a pagina, visto que nao tem conexão com banco de dados ainda.
 
-- Realizado um pequeno ajuste para melhor visibilidade do menu, adicionado bordas e alterado a cor para branco;
+- Lenilson Realizado um pequeno ajuste para melhor visibilidade do menu, adicionado bordas e alterado a cor para branco;
 
-- Adicionado ícone na aba de navegação em todas as páginas
+- Wanessa Adicionado ícone na aba de navegação em todas as páginas
 
 ### --------------------------------------------------------------------------------------- ## 
