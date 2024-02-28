@@ -67,4 +67,6 @@ Alterações realizadas 27/02/24
 
 - Realizado um pequeno ajuste para melhor visibilidade do menu, adicionado bordas e alterado a cor para branco;
 
+- Adicionado ícone na aba de navegação em todas as páginas
+
 ### --------------------------------------------------------------------------------------- ## 
