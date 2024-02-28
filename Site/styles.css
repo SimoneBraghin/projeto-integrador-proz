@@ -6,6 +6,9 @@
             text-align: center;
             background-color: #f7eee6;
         }
+        main {
+          margin: 100px;
+        }
         header {
           display: flex;
           justify-content: center; /* Centraliza horizontalmente */
