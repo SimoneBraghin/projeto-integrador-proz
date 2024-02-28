@@ -39,7 +39,7 @@ Consiste no desenho (scratch) da ideia do site, isto é, no esboço gráfico das
 - Head do Squad na sprint 1: Simone Braghin
 
 ### Sprint 2:
-Alterações realizadas por Lenilson 23/02/24
+Alterações realizadas 23/02/24
 
 - Lenilson fez, com base nós templates criados por todos(as) do Grupo 02.
 Fiz a transquição para HTML, de foram simples e termos um ponto de partida para melhorias e demais atualizações.
@@ -49,5 +49,22 @@ Feito o menu utilizavél, sendo que podemos mudar de paginas pelo menu.
 
 - Lenilson Como já temos um agendamento de reunião em grupo, seguimos com as pautas para as demais decisões e alinhamentos.
 
-- 
+Alterações realizadas 26/02/24
+
+- Lenilson reoganizou o diretorio de desenvolvimento alterando o nome para site;
+
+- Lenilson criou o arquivo separa para tratamento do site, arquivo styles.css, onde nesse arquivo já colocou as cores alinhadas na reunião do dia 25/02/24;
+
+Alterações realizadas 27/02/24
+
+- Lenilson adicionou a pagina 4 (Compartilhe conosco) ao porjeto do site;
+
+- Lenilson atualizou o CSS com uma separação para o formulario utilizado para postagem;
+
+- Lenilson criou um arquivo scripts.js onde tem um back-end da pagina 4 (Compartilhe conosco);
+
+- Pagina funcionando, porém, Os post ficam apresentados somente entao nao atualiza a pagina, visto que nao tem conexão com banco de dados ainda.
+
+- Realizado um pequeno ajuste para melhor visibilidade do menu, adicionado bordas e alterado a cor para branco;
+
 ### --------------------------------------------------------------------------------------- ## 
