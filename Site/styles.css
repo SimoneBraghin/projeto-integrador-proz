@@ -5,7 +5,7 @@
             padding: 0;
             text-align: center;
             background-color: #f7eee6;
-            cursor: url("Site\img\icone.cur"), default;
+            cursor: url("Site\img\icone.cur"), default; /*Em teste icone padrao no site*/
         }
 
         main {
