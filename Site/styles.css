@@ -6,9 +6,18 @@
             text-align: center;
             background-color: #f7eee6;
         }
-        header, nav, footer {
+        header {
+          display: flex;
+          justify-content: center; /* Centraliza horizontalmente */
+          align-items: center; /* Centraliza verticalmente */
+          background-color: #3a221a; /* Cor de fundo */
+          padding: 20px;
+          text-align: center;
+          border-bottom: 1px solid #ccc;
+         }
+        nav, footer {
             background-color: #3a221a; /* Cor de fundo */
-            padding: 20px;
+            padding: 10px;
             text-align: center;
         }
         nav ul {
@@ -27,8 +36,15 @@
             color: #f7eee6;
         }
 
-        h1{
+        .logo img {
+          width: 100px; /* Ajuste conforme necessário */
+          height: auto;
+          margin-right: 10px;
+        }
+
+        .title h1 {
           color: #f7eee6;
+          margin: 0px;
         }
 
          .rodape{
