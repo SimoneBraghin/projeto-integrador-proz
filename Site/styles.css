@@ -5,7 +5,7 @@
             padding: 0;
             text-align: center;
             background-color: #f7eee6;
-            cursor: url('./img/1_20240220_123712_0000.png'), auto;
+            cursor: url(http://www.webcis.com.br/images/lupa-clientes.cur), default;
         }
         main {
           margin: 100px;
