@@ -24,8 +24,25 @@
     <main>
         <!-- Conteúdo principal do site -->
         <h1> Em desenvolvimento!!!</h1>
-        <h2>Bem-vindo ao nosso site sobre cafés especiais!</h2>
-        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Maxime magni, aut amet molestiae illum neque, sapiente, exercitationem voluptates deserunt est ratione? Accusamus inventore harum deleniti quisquam, numquam facere sint qui?</p>
+
+
+        <div class="container">
+            <div class="post">
+                <form id="postForm">
+                <textarea id="postText" placeholder="Digite sua mensagem (máximo de 255 caracteres)" maxlength="255" required></textarea>
+                <input type="file" id="postImage" accept="image/*">
+                <button type="submit">Postar</button>
+                </form>
+            </div>
+        </div>
+
+        <div id="timeline" class="container">
+         <!-- Postagens aqui -->
+        </div>
+
+        <script src="scripts.js"></script>
+
+
     </main>
     <footer>
         <p>© 2024 Café Especial. Todos os direitos reservados.</p>
