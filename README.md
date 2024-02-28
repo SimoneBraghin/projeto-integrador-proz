@@ -72,7 +72,7 @@ Consiste no desenho (scratch) da ideia do site, isto é, no esboço gráfico das
 
 - Edição e organização do Kanban (Git Projects): Simone, Lenilson e Wanessa
 
-- Líder do Squad na sprint 1: Simone
+- Líder do Squad na sprint 2: Simone
 
 
 ### --------------------------------------------------------------------------------------- ## 
