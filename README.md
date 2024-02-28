@@ -17,56 +17,62 @@ Cada página conterá textos e fotos sobre o mundo cafeínado, segmentados em ci
 
 ### Sprint 1:
 
-Consiste no desenho (scratch) da ideia do site, isto é, no esboço gráfico das cinco páginas a serem desenvolvidas.  
+Consiste no desenho (scratch) da ideia do site, isto é, no esboço gráfico das cinco páginas a serem desenvolvidas:  
 
-**Página 1 (inicial): Origens do café de especialidade**  
+- **Página 1 (inicial): Origens do café de especialidade**  
 *Responsável: Maria Clara*  
 (não performou. Por isso, a head do squad fez a atividade na íntegra)  
   
-**Página 2: O que é café de especialidade**  
+- **Página 2: O que é café de especialidade**  
 *Responsável: Simone*  
   
-**Página 3: Bebidas café e drinks com café (mixologia)**  
+- **Página 3: Bebidas café e drinks com café (mixologia)**  
 *Responsável: Wanessa*  
   
-**Página 4: Espaço para usuários do site colocarem fotos dos cafés que tomam**  
+- **Página 4: Espaço para usuários do site colocarem fotos dos cafés que tomam**  
 *Responsável: Lenilson*  
 
-**Página 5: Contatos e referências (do café e da fotógrafa)**  
+- **Página 5: Contatos e referências (do café e da fotógrafa)**  
 *Responsável: Ashley*  
   
 - Edição de imagem para a criação de ícone: Simone Braghin
-- Head do Squad na sprint 1: Simone Braghin
+- Líder do Squad na sprint 1: Simone Braghin
 
 ### Sprint 2:
-Alterações realizadas 23/02/24
 
-- Lenilson fez, com base nós templates criados por todos(as) do Grupo 02.
-Fiz a transquição para HTML, de foram simples e termos um ponto de partida para melhorias e demais atualizações.
+- Lenilson fez a transição para HTML, de foram simples e termos um ponto de partida para melhorias e demais atualizações, com base no sprint 1.
 
-- Lenilson ... Foram criadas as 5 paginas principais do projeto em HTML e deixado o mesmo Menu, cabeçalho e Rodape nelas.
-Feito o menu utilizavél, sendo que podemos mudar de paginas pelo menu.
+- Lenilson criou o a estrutura básica HTML das cinco paginas principais do projeto em HTML e deixado o mesmo Menu, cabeçalho e Rodape nelas; o menu utilizavél - sendo que podemos mudar de paginas pelo menu.
 
 - Lenilson Como já temos um agendamento de reunião em grupo, seguimos com as pautas para as demais decisões e alinhamentos.
 
-Alterações realizadas 26/02/24
-
 - Lenilson reoganizou o diretorio de desenvolvimento alterando o nome para site;
 
-- Lenilson criou o arquivo separa para tratamento do site, arquivo styles.css, onde nesse arquivo já colocou as cores alinhadas na reunião do dia 25/02/24;
+- Lenilson criou o arquivo separado para tratamento do site, arquivo styles.css, onde nesse arquivo já colocou as cores alinhadas na reunião do dia 25/02/24;
 
-Alterações realizadas 27/02/24
-
-- Lenilson adicionou a pagina 4 (Compartilhe conosco) ao porjeto do site;
+- Lenilson adicionou a pagina 4 (Compartilhe conosco) ao projeto do site;
 
 - Lenilson atualizou o CSS com uma separação para o formulario utilizado para postagem;
 
 - Lenilson criou um arquivo scripts.js onde tem um back-end da pagina 4 (Compartilhe conosco);
 
-- Lenilson Pagina funcionando, porém, Os post ficam apresentados somente entao nao atualiza a pagina, visto que nao tem conexão com banco de dados ainda.
+- **Lenilson Pagina funcionando, porém, Os post ficam apresentados somente entao nao atualiza a pagina, visto que nao tem conexão com banco de dados ainda.**
 
-- Lenilson Realizado um pequeno ajuste para melhor visibilidade do menu, adicionado bordas e alterado a cor para branco;
+- Lenilson realizou pequeno ajuste para melhor visibilidade do menu, adicionado bordas e alterado a cor para branco;
 
 - Wanessa Adicionado ícone na aba de navegação em todas as páginas
+
+- Simone realizou o desenvolvimento da Página 2
+
+- Simone adicionou configurações de navegação no arquivo de CSS para melhoria no Menu (separação de caixas, alteração de cores)
+
+- Simone adicionou configurações de estilo no arquivo de CSS para melhoria na formatação de textos e imagens
+
+- Edição e organização do repositório: Wanessa, Lenilson e Simone
+
+- Edição e organização do Kanban (Git Projects): Simone, Lenilson e Wanessa
+
+- Líder do Squad na sprint 1: Simone
+
 
 ### --------------------------------------------------------------------------------------- ## 
