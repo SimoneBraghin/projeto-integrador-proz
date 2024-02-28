@@ -5,13 +5,13 @@
             padding: 0;
             text-align: center;
             background-color: #f7eee6;
-            cursor: url('http://www.webcis.com.br/images/lupa-clientes.cur'), default;
+            cursor: url('Site\img\icone.cur'), default;
         }
 
         main {
           margin: 100px;
         }
-        
+
         header {
           display: flex;
           justify-content: center; /* Centraliza horizontalmente */
