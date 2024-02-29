@@ -76,3 +76,22 @@ Consiste no desenho (scratch) da ideia do site, isto é, no esboço gráfico das
 
 
 ### --------------------------------------------------------------------------------------- ## 
+
+### Sprint 3:
+
+- Lenilson  se colocou a disposição para organizar  as pastas;
+
+- Lenilson realizou a reorganização de todos arquivos e pastas do Projeto;
+  
+- Lenilson repassou por todos os códigos e corrigir os erros de imagens, realocando as imagens para cada pasta individual de cada pagina;
+  
+- Lenilson  realocou os arquivos que não eram necessário para o diretório "Apoio" deixando o diretório "Site" somente com o que estamos usando e aplicando;
+  
+- Lenilson criou uma pagina 6 que sera nosso index, mais vamos discutir sobre isso e ver se é o melhor mesmo, essa pagina será para ser o "rosto" do site e terá o menu de nagevação;
+
+
+
+
+### --------------------------------------------------------------------------------------- ## 
+
+
