@@ -15,6 +15,9 @@ Para mais informações sobre a trilha de formação, visite a [Proz Educação]
 Um blog informativo sobre o mundo do café de especialidade, com uma pegada visual, com fotos de fotógrafa parceira - divulgando o trabalho da mesma bem como tópicos relacionados ao universo do café.  
 Cada página conterá textos e fotos sobre o mundo cafeínado, segmentados em cinco páginas e cinco tópicos, conforme divisão abaixo elencada.
 
+
+### --------------------------------------------------------------------------------------- ## 
+
 ### Sprint 1:
 
 Consiste no desenho (scratch) da ideia do site, isto é, no esboço gráfico das cinco páginas a serem desenvolvidas:  
@@ -37,6 +40,9 @@ Consiste no desenho (scratch) da ideia do site, isto é, no esboço gráfico das
   
 - Edição de imagem para a criação de ícone: Simone Braghin
 - Líder do Squad na sprint 1: Simone Braghin
+
+
+### --------------------------------------------------------------------------------------- ## 
 
 ### Sprint 2:
 
