@@ -95,6 +95,9 @@ Consiste no desenho (scratch) da ideia do site, isto é, no esboço gráfico das
   
 - Lenilson criou uma pagina 6 que sera nosso index, mais vamos discutir sobre isso e ver se é o melhor mesmo, essa pagina será para ser o "rosto" do site e terá o menu de nagevação;
 
+- Simone fez a alteração no repositório dos nomes das fotos com correspondência de nome de processos ou nome das bebidas
+
+- Simone adicionou conteúdo textual sobre café e receitas para equipe poder criar os textos de cada página (que terá textos: página 1, 2 e 3)
 
 
 
