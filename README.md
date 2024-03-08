@@ -99,7 +99,7 @@ Consiste no desenho (scratch) da ideia do site, isto é, no esboço gráfico das
 
 - Simone adicionou conteúdo textual sobre café e receitas para equipe poder criar os textos de cada página (que terá textos: página 1, 2 e 3)
 
-
+- Simone inseriu logo no index, como referência, e alterou nome da página principal
 
 ### --------------------------------------------------------------------------------------- ## 
 
