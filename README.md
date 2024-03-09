@@ -101,6 +101,8 @@ Consiste no desenho (scratch) da ideia do site, isto é, no esboço gráfico das
 
 - Simone inseriu logo no index, como referência, e alterou nome da página principal
 
+- Simone adicionou foto e texto da biografia da fotógrafa para tratamento e uso
+
 ### --------------------------------------------------------------------------------------- ## 
 
 
