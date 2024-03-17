@@ -1,125 +1,125 @@
-        /* Estilos para o cabeçalho, menu e rodapé */
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            text-align: center;
-            background-color: #f7eee6;
-            cursor: url("Site\img\icone.cur"), default; /*Em teste icone padrao no site*/
-        }
+/* Estilos para o cabeçalho, menu e rodapé */
+  body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      text-align: center;
+      background-color: #f7eee6;
+      cursor: url("Site\img\icone.cur"), default; /*Em teste icone padrao no site*/
+  }
 
-        main {
-          margin: 100px;
-        }
+  main {
+    margin: 100px;
+  }
 
-        header {
-          display: flex;
-          justify-content: center; /* Centraliza horizontalmente */
-          align-items: center; /* Centraliza verticalmente */
-          background-color: #3a221a; /* Cor de fundo */
-          padding: 20px;
-          text-align: center;
-          border-bottom: 1px solid #ccc;
-         }
-        nav, footer {
-            background-color: #3a221a; /* Cor de fundo */
-            padding: 10px;
-            text-align: center;
-        }
-        nav ul {
-            list-style-type: none;
-            padding: 0;
-        }
-        nav ul li {
-          display: inline;
-          margin-right: 20px;
-          padding-right: 10px; /* Adiciona um preenchimento à direita para afastar o texto da borda */
-            
-        }
-        nav a {
-          display: inline-block;
-          padding: 10px 20px; /* Preenchimento (topo/baixo, esquerda/direita) */
-          text-decoration: none;
-          background-color: #80594a;
-          color: #f7eee6;
-          border-radius: 5px; /* Borda arredondada */
-         }
+  header {
+    display: flex;
+    justify-content: center; /* Centraliza horizontalmente */
+    align-items: center; /* Centraliza verticalmente */
+    background-color: #3a221a; /* Cor de fundo */
+    padding: 20px;
+    text-align: center;
+    border-bottom: 1px solid #ccc;
+    }
+  nav, footer {
+      background-color: #3a221a; /* Cor de fundo */
+      padding: 10px;
+      text-align: center;
+  }
+  nav ul {
+      list-style-type: none;
+      padding: 0;
+  }
+  nav ul li {
+    display: inline;
+    margin-right: 20px;
+    padding-right: 10px; /* Adiciona um preenchimento à direita para afastar o texto da borda */
+      
+  }
+  nav a {
+    display: inline-block;
+    padding: 10px 20px; /* Preenchimento (topo/baixo, esquerda/direita) */
+    text-decoration: none;
+    background-color: #80594a;
+    color: #f7eee6;
+    border-radius: 5px; /* Borda arredondada */
+    }
 
-          nav a:hover {
-              background-color: #3a221a; /* Mudar a cor de fundo quando o mouse passa por cima */
-          }
+    nav a:hover {
+        background-color: #3a221a; /* Mudar a cor de fundo quando o mouse passa por cima */
+    }
 
-        a{
-            border-style: solid;
-            border-color: #f7eee6;
-            padding: 10px;
-            color: #f7eee6;
-        }
+  a{
+      border-style: solid;
+      border-color: #f7eee6;
+      padding: 10px;
+      color: #f7eee6;
+  }
 
-        .logo img {
-          width: 100px; /* Ajuste conforme necessário */
-          height: auto;
-          margin-right: 10px;
-        }
+  .logo img {
+    width: 100px; /* Ajuste conforme necessário */
+    height: auto;
+    margin-right: 10px;
+  }
 
-        .title h1 {
-          color: #f7eee6;
-          margin: 0px;
-        }
+  .title h1 {
+    color: #f7eee6;
+    margin: 0px;
+  }
 
-         .rodape{
-          color: #f7eee6;
-        } 
+    .rodape{
+    color: #f7eee6;
+  } 
 
-        /* CSS para o formulario de envio e postagem */
+/* CSS para o formulario de envio e postagem */
 
-        #postForm {
-          padding: 50px;
-          border-bottom: 1px solid #f7eee6;
-          max-height: 400px;
-        }
-        
-        #postText {
-          width: 100%;
-          height: 100px;
-          margin-bottom: 10px;
-        }
-          
-        #postImage {
-          margin-bottom: 10px;
-        } 
-          
-        #timeline {
-          margin-top: 20px;
-        }
-          
-        .post-content img {
-          max-width: 100%;
-          height: auto;
-          max-height: 400px; /* Definindo uma altura máxima para a imagem */
-        }
-        
-        .container {
-          margin: 20px;
-        }
+  #postForm {
+    padding: 50px;
+    border-bottom: 1px solid #f7eee6;
+    max-height: 400px;
+  }
+  
+  #postText {
+    width: 100%;
+    height: 100px;
+    margin-bottom: 10px;
+  }
+    
+  #postImage {
+    margin-bottom: 10px;
+  } 
+    
+  #timeline {
+    margin-top: 20px;
+  }
+    
+  .post-content img {
+    max-width: 100%;
+    height: auto;
+    max-height: 400px; /* Definindo uma altura máxima para a imagem */
+  }
+  
+  .container {
+    margin: 20px;
+  }
 
-        .image-container{
+  .image-container{
 
-            display: inline-block;
-            margin: 10px;
+      display: inline-block;
+      margin: 10px;
 
-        }
-        
-        .imagem-centralizada {
-          display: block;
-          margin: 0 auto;
-        }
-        
-        .texto-justificado {
-          text-align: justify;
-        }
+  }
+  
+  .imagem-centralizada {
+    display: block;
+    margin: 0 auto;
+  }
+  
+  .texto-justificado {
+    text-align: justify;
+  }
 
-        /* Seção sobre o café */
+/* Seção sobre o café */
   .sobre-cafe {
     width: 150%;
     padding: 20px;
@@ -130,8 +130,8 @@
     width: 10%;
     margin-bottom: 10px;
   }
-  
-  /* Seção de recomendação */
+
+/* Seção de recomendação */
   .recomendaçao{
     width: 50%;
     padding: 10px;
@@ -143,7 +143,7 @@
     margin-bottom: 10px;
   }
   
-  /* Seção de contato */
+/* Seção de contato */
   .contato {
     width: 50%;
     padding: 10px;
