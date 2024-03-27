@@ -9,7 +9,8 @@
   }
 
   main {
-    margin: 100px;
+    margin: 0;
+    padding: 0;
   }
 
   header {
@@ -96,7 +97,7 @@
   .post-content img {
     max-width: 100%;
     height: auto;
-    max-height: 400px; /* Definindo uma altura máxima para a imagem */
+    max-height: 400px; /*Definindo uma altura máxima para a imagem */
   }
   
   .container {
@@ -107,6 +108,7 @@
 
       display: inline-block;
       margin: 10px;
+      z-index: 5; /*Definindo a profundidade das imagens*/
 
   }
   
@@ -148,6 +150,87 @@
     width: 50%;
     padding: 10px;
     background-color: #f3f3f3;
+  }
+  
+  .contato img {
+    width: 10%;
+    margin-bottom: 10px;
+  }
+
+  /* Configurando o Carrossel*/
+
+  section.slider{
+    margin: 0 auto;
+    width: 100%;
+    height: auto;
+    padding: 0 !important;
+    overflow: hidden; /*barra de rolagem horizontal fique escondida*/
+  }
+
+  .slider-content{
+    width: 400%;
+    height: auto;
+    display: flex;
+  }
+
+  .slider-content input, .img-mobile{
+    display: none;
+  }
+
+  .slider-box{
+    width: 25%;
+    height: auto;
+    position: relative;
+    text-align: center;
+    transition: 1s;
+  }
+
+  .slider-box img{
+    width: 100%;
+  }
+
+  .nav-manual, .nav-auto{
+    position: absolute;
+    width: 100%;
+    margin-top: 38%;
+    display: flex;
+    justify-content: center;
+  }
+
+  .nav-manual .manual-btn, .nav-auto div{
+    border: 1px solid #80594a;
+    padding: 10px;
+    border-radius: 50%;
+    cursor: pointer;
+    transition: 0.2s;
+  }
+
+  .nav-manual .manual-btn:not(:last-child),  .nav-auto div:not(:last-child) {
+    margin-right: 10px;
+  }/*Todos tenha uma borda lateral, menos a última bolinha*/
+
+  .nav-manual .manual-btn:hover{
+    background-color: #80594a;
+  }/*Mudarar o fundo da bolinha quando o usuário passar o mouse em cima*/
+
+  #radio1:checked ~ .nav-auto .auto-btn1, #radio2:checked ~ .nav-auto .auto-btn2, #radio3:checked ~ .nav-auto .auto-btn3{
+    background-color: #80594a;
+  }
+
+  #radio1:checked ~ .primeiro{
+    margin-left: 0%;
+  }
+
+  #radio2:checked ~ .primeiro{
+    margin-left: -25%;
+  }
+
+  #radio3:checked ~ .primeiro{
+    margin-left: -50%;
+  }
+
+  section.content{
+    margin: 5%;
   }
   
   .contato img {
