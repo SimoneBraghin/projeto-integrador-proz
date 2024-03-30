@@ -103,6 +103,10 @@ Consiste no desenho (scratch) da ideia do site, isto é, no esboço gráfico das
 
 - Simone adicionou foto e texto da biografia da fotógrafa para tratamento e uso
 
+- Wanessa fez alterações na página
+
+- Simone fez correções nos textos, css e estrutura html
+
 ### --------------------------------------------------------------------------------------- ## 
 
 
