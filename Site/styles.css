@@ -240,7 +240,11 @@
   }
 
   section.content{
-    margin: 5%;
+    margin: 4%;
+  }
+
+  section.content-mix{
+    margin: 2%;
   }
   
   .contato img {
