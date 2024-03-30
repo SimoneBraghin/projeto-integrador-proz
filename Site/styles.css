@@ -156,6 +156,15 @@
     width: 10%;
     margin-bottom: 10px;
   }
+  h1, h2{
+    text-align: center;
+  }
+
+  .content-aling{
+    text-align: center;
+    display: flex;
+    align-items: center;
+  }
 
   /* Configurando o Carrossel*/
 
