@@ -147,14 +147,15 @@
   
 /* Seção de contato */
   .contato {
-    width: 50%;
+    width: 100%;
     padding: 10px;
     background-color: #f3f3f3;
+    display: flex;
   }
   
   .contato img {
-    width: 10%;
-    margin-bottom: 10px;
+    width: 5%;
+    margin-bottom: 5px;
   }
   h1, h2{
     text-align: center;
