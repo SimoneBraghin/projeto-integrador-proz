@@ -150,15 +150,23 @@
     width: 100%;
     padding: 10px;
     background-color: #f3f3f3;
-    display: flex;
   }
   
   .contato img {
-    width: 5%;
-    margin-bottom: 5px;
+    width: 10%;
+    margin-bottom: 10px;
   }
   h1, h2{
     text-align: center;
+  }
+  .sobre-cafe {
+    width: 100%;
+    padding: 10px;
+    background-color: #f3f3f3;
+  }
+  .sobre-cafe img{
+    width: 10%;
+    margin-bottom: 10px;
   }
 
   .content-aling{
