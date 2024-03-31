@@ -151,13 +151,11 @@
     padding: 12px;
     background-color: #f7eee6;
   }
-  a:hover{
-      color: black;
-    }
+
     a:visited {
-      color: black;
+      color:black;
   }
-  
+
   
   .contato img {
     width: 10%;
