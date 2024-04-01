@@ -183,6 +183,14 @@
     justify-content: center;
   }
 
+  .alinhar-esquerda {
+    margin-right: 15px;
+  }
+
+  .alinhar-direita {
+    margin-left: 15px;
+  }
+
   /* Configurando o Carrossel*/
 
   section.slider{
@@ -268,14 +276,6 @@
     margin-bottom: 10px;
   }
   
-  .alinhar-esquerda {
-    margin-right: 15px;
-  }
-
-  .alinhar-direita {
-    margin-left: 15px;
-  }
-
   .logo{
     margin-left: 15px;
   }
