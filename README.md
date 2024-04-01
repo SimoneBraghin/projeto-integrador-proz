@@ -110,3 +110,5 @@ Consiste no desenho (scratch) da ideia do site, isto é, no esboço gráfico das
 ### --------------------------------------------------------------------------------------- ## 
 
 
+trasition e animation no css para transição dos carroseis
+
