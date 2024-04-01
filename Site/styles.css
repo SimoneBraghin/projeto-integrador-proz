@@ -267,3 +267,15 @@
     width: 10%;
     margin-bottom: 10px;
   }
+  
+  .alinhar-esquerda {
+    margin-right: 15px;
+  }
+
+  .alinhar-direita {
+    margin-left: 15px;
+  }
+
+  .logo{
+    margin-left: 15px;
+  }
