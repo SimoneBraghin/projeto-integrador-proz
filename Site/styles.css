@@ -151,6 +151,19 @@
     padding: 12px;
     background-color: #f7eee6;
   }
+div.instagram {
+  margin: 12px;
+}
+
+div.instagram img{
+    transition: transform 0.3s ease;
+    width: 50px;
+    justify-content: center;
+    margin: 0%;
+}
+div.instagram:hover img {
+    transform: scale(1.1);
+}
 
     a:visited {
       color:black;
