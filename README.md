@@ -1,7 +1,23 @@
 # Projeto Integrador Talento Cloud Pro - Proz Tecnologia
 Repositório do Grupo 2 referente ao Projeto Integrador do Curso **Talento Cloud Pro
 Capacitação Gratuita em Introdução à Programação e Nuvem AWS** da Proz Educacional em parceria com a AWS: Curso de Programação Front End e Cloud Practitioner.  
-  
+
+
+# Guia de Navegação para Sprint 5
+A Sprint 5 continua a evolução do nosso site de café, mantendo a estrutura organizacional das sprints anteriores e preparando o terreno para a integração com um banco de dados SQL.
+
+## Acessando as Páginas da Sprint 5
+Para acessar as páginas e os recursos desenvolvidos durante a Sprint 5:
+1. Acesse a branch da `sprint-5` no repositório do GitHub.
+2. Navegue até a pasta `site`, onde você encontrará as subpastas com os arquivos HTML e imagens para cada página, assim como nas sprints anteriores.
+3. Dentro da pasta `site`, você também encontrará os arquivos `scripts.js` e `styles.css`, que contêm o JavaScript e os estilos CSS aplicados ao site.
+   
+## Estrutura dos Arquivos
+Os arquivos estão organizados da seguinte forma:
+- Subpastas nomeadas `pagina-1`, `pagina-2`, `pagina-3`, `pagina-4`, e `pagina-5` contendo os arquivos HTML e as imagens correspondentes a cada página do site.
+- Arquivo `scripts.js` contendo o código JavaScript que adiciona interatividade ao site.
+- Arquivo `styles.css` contendo os estilos CSS que definem a aparência do site.
+
 Para mais informações sobre a trilha de formação, visite a [Proz Educação](https://pages.prozeducacao.com.br/lp-proz-tecnologia-talento-cloud).
 
 ## Integrantes do Grupo 2:
