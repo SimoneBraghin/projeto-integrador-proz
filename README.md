@@ -1,6 +1,31 @@
 # Projeto Integrador Talento Cloud Pro - Proz Tecnologia
 Repositório do Grupo 2 referente ao Projeto Integrador do Curso **Talento Cloud Pro
 Capacitação Gratuita em Introdução à Programação e Nuvem AWS** da Proz Educacional em parceria com a AWS: Curso de Programação Front End e Cloud Practitioner.  
+
+
+# Guia de Navegação para Sprint 2
+ 
+A Sprint 2 marca o início da construção do nosso site de café, com a implementação dos arquivos HTML. Abaixo está um guia para navegar pelas páginas e entender o conteúdo que cada uma contém.
+ 
+## Acessando as Páginas da Sprint 2
+
+Para explorar o site em desenvolvimento:
+1. Acesse a branch da `sprint-2` no repositório do GitHub.
+2. Navegue pelos arquivos HTML para visualizar as páginas em construção.
+ 
+## Conteúdo das Páginas HTML
+
+- **`index.html` (Página Inicial)**: Esta é a porta de entrada do site, onde os visitantes são introduzidos aos Cafés Especiais e à História do Café. Aqui, eles podem aprender sobre a origem e a evolução do café.
+
+- **`sobre.html` (Sobre Nós)**: Esta página contém informações sobre o que define um café como de especialidade, destacando suas qualidades únicas e o que o torna tão apreciado.
+
+- **`mixologia.html` (Mixologia)**: Dedicada à arte de criar bebidas e drinks com café, esta página oferecerá receitas e dicas para os entusiastas da mixologia.
+
+- **`compartilhe.html` (Compartilhe Conosco)**: Um espaço interativo para os visitantes compartilharem suas histórias e experiências com café, promovendo uma comunidade de amantes do café.
+
+- **`contato.html` (Contato)**: A página de contatos fornece informações para os usuários entrarem em contato com a equipe do site e a fotógrafa responsável pelas imagens.
+  
+Cada página está sendo desenvolvida para oferecer uma experiência rica e informativa aos visitantes, com um design que reflete a paixão pelo café.
   
 Para mais informações sobre a trilha de formação, visite a [Proz Educação](https://pages.prozeducacao.com.br/lp-proz-tecnologia-talento-cloud).
 
