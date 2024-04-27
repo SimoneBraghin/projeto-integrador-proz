@@ -1,7 +1,31 @@
 # Projeto Integrador Talento Cloud Pro - Proz Tecnologia
 Repositório do Grupo 2 referente ao Projeto Integrador do Curso **Talento Cloud Pro
 Capacitação Gratuita em Introdução à Programação e Nuvem AWS** da Proz Educacional em parceria com a AWS: Curso de Programação Front End e Cloud Practitioner.  
-  
+
+
+# Guia de Navegação para Sprint 3
+A Sprint 3 foca na melhoria estética e na responsividade do nosso site de café, com aprimoramentos significativos no CSS. Segue um guia para entender as mudanças e como navegar pelas páginas atualizadas.
+ 
+## Melhorias Implementadas
+- **Flexbox**: Adotamos o Flexbox para um layout mais flexível e responsivo, garantindo que o site se adapte a diferentes tamanhos de tela.
+- **Tipografia e Cores**: Atualizamos as fontes, cores e tamanhos para melhorar a legibilidade e a estética visual do site.
+ 
+## Estrutura dos Arquivos
+Os arquivos foram organizados em pastas nomeadas de acordo com cada página do site:
+- `pagina-1` para a Página Inicial
+- `pagina-2` para Sobre Nós
+- `pagina-3` para Mixologia
+- `pagina-4` para Compartilhe Conosco
+- `pagina-5` para Contato
+ 
+## Acessando as Páginas
+Para visualizar as páginas com as melhorias de CSS:
+1. Acesse a branch da `sprint-3` no repositório do GitHub.
+2. Navegue até a pasta `site` onde estão localizadas as subpastas de cada página.
+3. Selecione a pasta correspondente à página que deseja visualizar (por exemplo, `pagina-1` para a Página Inicial).
+ 
+Dentro de cada pasta, você encontrará os arquivos HTML e CSS relacionados, agora com um design melhorado e uma experiência de usuário mais agradável.
+
 Para mais informações sobre a trilha de formação, visite a [Proz Educação](https://pages.prozeducacao.com.br/lp-proz-tecnologia-talento-cloud).
 
 ## Integrantes do Grupo 2:
