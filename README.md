@@ -1,7 +1,32 @@
 # Projeto Integrador Talento Cloud Pro - Proz Tecnologia
 Repositório do Grupo 2 referente ao Projeto Integrador do Curso **Talento Cloud Pro
 Capacitação Gratuita em Introdução à Programação e Nuvem AWS** da Proz Educacional em parceria com a AWS: Curso de Programação Front End e Cloud Practitioner.  
-  
+
+
+# Guia de Navegação para Sprint 4
+A Sprint 4 introduz o JavaScript ao nosso site de café, adicionando uma nova dimensão de interatividade e funcionalidade.
+ 
+## Estrutura dos Arquivos
+Os arquivos HTML estão organizados em pastas que correspondem a cada página do site:
+- `pagina-1` para a Página Inicial
+- `pagina-2` para Sobre Nós
+- `pagina-3` para Mixologia
+- `pagina-4` para Compartilhe Conosco
+- `pagina-5` para Contato
+ 
+Os arquivos de JavaScript e CSS estão centralizados e podem ser encontrados na pasta `site`:
+- `scripts.js`: Contém o JavaScript que adiciona interatividade às páginas.
+- `styles.css`: Define os estilos e o layout visual do site.
+ 
+## Acessando as Páginas com JavaScript e CSS
+Para navegar pelas páginas e ver as melhorias:
+1. Acesse a branch da `sprint-4` no repositório do GitHub.
+2. Na pasta `site`, você encontrará as subpastas com os arquivos HTML e imagens para cada página, além dos arquivos `scripts.js` e `styles.css`.
+3. Abra a subpasta correspondente à página que deseja visualizar (por exemplo, `pagina-1` para a Página Inicial) para acessar o HTML e as imagens.
+4. Os arquivos `scripts.js` e `styles.css` aplicam-se a todas as páginas e estão localizados diretamente dentro da pasta `site`.
+
+Este esquema organizacional facilita a manutenção do código e a aplicação consistente de estilos e scripts em todo o site.
+   
 Para mais informações sobre a trilha de formação, visite a [Proz Educação](https://pages.prozeducacao.com.br/lp-proz-tecnologia-talento-cloud).
 
 ## Integrantes do Grupo 2:
