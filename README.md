@@ -125,6 +125,10 @@ Consiste no desenho (scratch) da ideia do site, isto é, no esboço gráfico das
 
 ### --------------------------------------------------------------------------------------- ## 
 
+### Sprint 4:
 
-trasition e animation no css para transição dos carroseis
+
+### --------------------------------------------------------------------------------------- ## 
+
+### Sprint 5:
 
