@@ -29,9 +29,6 @@ Os arquivos estão organizados da seguinte forma:
 Um blog informativo sobre o mundo do café de especialidade, com uma pegada visual, com fotos de fotógrafa parceira - divulgando o trabalho da mesma bem como tópicos relacionados ao universo do café.  
 Cada página conterá textos e fotos sobre o mundo cafeínado, segmentados em cinco páginas e cinco tópicos, conforme divisão abaixo elencada.
 
-
-### --------------------------------------------------------------------------------------- ## 
-
 ### Sprint 1:
 
 Consiste no desenho (scratch) da ideia do site, isto é, no esboço gráfico das cinco páginas a serem desenvolvidas:  
@@ -54,9 +51,6 @@ Consiste no desenho (scratch) da ideia do site, isto é, no esboço gráfico das
   
 - Edição de imagem para a criação de ícone: Simone Braghin
 - Líder do Squad na sprint 1: Simone Braghin
-
-
-### --------------------------------------------------------------------------------------- ## 
 
 ### Sprint 2:
 
@@ -94,9 +88,6 @@ Consiste no desenho (scratch) da ideia do site, isto é, no esboço gráfico das
 
 - Líder do Squad na sprint 2: Simone
 
-
-### --------------------------------------------------------------------------------------- ## 
-
 ### Sprint 3:
 
 - Lenilson  se colocou a disposição para organizar  as pastas;
@@ -121,13 +112,11 @@ Consiste no desenho (scratch) da ideia do site, isto é, no esboço gráfico das
 
 - Simone fez correções nos textos, css e estrutura html
 
-### --------------------------------------------------------------------------------------- ## 
-
 ### Sprint 4:
 
 
-### --------------------------------------------------------------------------------------- ## 
-
 ### Sprint 5:
+- Ashley fez o *guia de navegação do site* e o inseriu no README.md
+- Simone fez a organização do projeto, alterando os caminhos do site
 
 
