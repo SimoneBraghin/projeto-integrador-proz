@@ -112,8 +112,13 @@ Consiste no desenho (scratch) da ideia do site, isto é, no esboço gráfico das
 - Simone fez correções nos textos, css e estrutura html
 
 ### Sprint 4:
-
+- Grupo não conseguiu se organizar e avançar nesta sprint. Contudo, foi entregue o requisito de javascript na sprint 3
 
 ### Sprint 5:
 - Ashley fez o *guia de navegação do site* e o inseriu no README.md
+- Wanessa arrumou erro de referência de páginas
+- Simone fez a organização da estrutura do Site no VS Code
+- Wanessa fez a conferência do dimensionamento das fotos de carrosel para informar a Simone
+- Simone conferiu com parceira (fotógrafa) fotos nas dimensões necessárias para um carrosel
+- Simone enviou as fotos de dimensionamento necessárias para a resolução do problema do carrosel
 
