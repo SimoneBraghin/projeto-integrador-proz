@@ -50,7 +50,7 @@ Consiste no desenho (scratch) da ideia do site, isto é, no esboço gráfico das
 *Responsável: Ashley*  
   
 - Edição de imagem para a criação de ícone: Simone Braghin
-- Líder do Squad na sprint 1: Simone Braghin
+
 
 ### Sprint 2:
 
@@ -86,7 +86,6 @@ Consiste no desenho (scratch) da ideia do site, isto é, no esboço gráfico das
 
 - Edição e organização do Kanban (Git Projects): Simone, Lenilson e Wanessa
 
-- Líder do Squad na sprint 2: Simone
 
 ### Sprint 3:
 
@@ -117,6 +116,4 @@ Consiste no desenho (scratch) da ideia do site, isto é, no esboço gráfico das
 
 ### Sprint 5:
 - Ashley fez o *guia de navegação do site* e o inseriu no README.md
-- Simone fez a organização do projeto, alterando os caminhos do site
-
 
