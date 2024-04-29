@@ -121,4 +121,4 @@ Consiste no desenho (scratch) da ideia do site, isto é, no esboço gráfico das
 - Wanessa fez a conferência do dimensionamento das fotos de carrosel para informar a Simone
 - Simone conferiu com parceira (fotógrafa) fotos nas dimensões necessárias para um carrosel
 - Simone enviou as fotos de dimensionamento necessárias para a resolução do problema do carrosel
-
+- Simone adicionou as fotos do carrosel
