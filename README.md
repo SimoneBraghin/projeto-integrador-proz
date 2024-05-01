@@ -123,3 +123,4 @@ Consiste no desenho (scratch) da ideia do site, isto é, no esboço gráfico das
 - Simone conferiu com parceira (fotógrafa) fotos nas dimensões necessárias para um carrosel
 - Simone enviou as fotos de dimensionamento necessárias para a resolução do problema do carrosel
 - Simone adicionou as fotos do carrosel
+- Asheley, Lenilson, Simone, Wanessa realizaram todas as atividades da sprint 5 em conjunto, de modo síncrono.
