@@ -115,6 +115,7 @@ Consiste no desenho (scratch) da ideia do site, isto é, no esboço gráfico das
 - Grupo não conseguiu se organizar e avançar nesta sprint. Contudo, foi entregue o requisito de javascript na sprint 3
 
 ### Sprint 5:
+[slide_sprintV](https://www.canva.com/design/DAFY6TpCFNU/view#2)
 - Ashley fez o *guia de navegação do site* e o inseriu no README.md
 - Wanessa arrumou erro de referência de páginas
 - Simone fez a organização da estrutura do Site no VS Code
