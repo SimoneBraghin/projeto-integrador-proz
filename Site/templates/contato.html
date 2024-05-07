@@ -6,7 +6,8 @@
     <title>Contatos e Referencias</title>
     <link rel="stylesheet" type="text/css" href="../styles.css"> <!-- \*Folha de estilo*\ -->
     <link rel="icon" href="/Site/contents/img/icone.ico">  <!-- adicionar í­cone -->
-    <script src="../scripts.js" defer></script>
+    <link rel="stylesheet" href="contato/carrosel.css">
+    <script src="contato/carrosel.js" defer></script>
 </head>
 <body>
    <header>
@@ -51,18 +52,59 @@
                 indo de fotos humanizadas de produtos para cafeterias, bares, restaurantes, docerias,
                 _personal_ chefs de cozinha, confeiteiras, bem como fotos humanizadas para esses estabelecimentos.</p>
         </div>
-        <div class="recomendaçao">
-            <h2>RECOMENDAÇAO</h2>
-            <img src="/Site/contents/img/cafe_mak.jpg" alt="Copo de bebida">
-            <p>lugares de referencia aonde as fotos foram tiradas...</p>
-            <!-- Pracisa avançar nesse ponto 
-            Está muito solto. Talvez criar um maps ou retirar esse ponto-->
+        <div class="recomendacao">
+        
+            <div class="carousel-container" id="carousel">
+            <!-- Slide 1 -->
+                <div class="carousel-slide">
+                    <div class="place-name"><b>Café Palhares - Belo Horizonte</b></div>
+                    <div class="imag-container">
+                        <img src="contato/img/cafe_palhares.webp" alt="img_1">
+                        <img src="contato/img/KAOL.webp" alt="img_2">
+                    </div>
+                    <p>O Café Palhares é um ícone de BH, conhecido como o reduto dos boêmios e “Quartel General dos Esportes”. Fundado em 1938, é famoso pelo seu “Kaol”, um sanduíche de pernil com queijo e molho especial1. A especialidade da casa é o café coado tradicional, servido com simplicidade e sabor que remetem à história da cidade.</p>
+                    <a href="https://www.cafepalhares.com.br/" class="site-link_1">Site do Café Palhares</a>
+                </div>
+                <!-- Slide 2 -->
+                <div class="carousel-slide">
+                    <div class="place-name"><b>89ºC Coffee Station - São Paulo</b></div>
+                    <div class="imag-container">
+                        <img src="contato/img/cafe_89.jfif" alt="img_1">
+                        <img src="contato/img/salgado_89.png" alt="img_2">
+                    </div>
+                    <p>Localizada no bairro da Liberdade, a 89ºC Coffee Station é uma mistura de confeitaria japonesa moderna com influência europeia. Se destaca pelo bolo de melão e pela coxinha de catupiry. A especialidade em termos de bebida é o Japanese Drip Coffee, uma técnica japonesa de extração de café especial</p>
+                    <a href="https://89coffeestation.com.br/" class="site-link_2">Site do 89ºC Coffee Station</a>
+                </div>
+                <!--Slide 3 -->
+                <div class="carousel-slide">
+                    <div class="place-name"><b>Oop Café - Belo Horizonte</b></div>
+                    <div class="imag-container">
+                        <img src="contato/img/opp_cafe.jfif" alt="img_1">
+                        <img src="contato/img/opp_cafe.png" alt="img_2">
+                    </div>
+                    <p>O Oop Café é conhecido por seu ambiente moderno e aconchegante. Além de ser uma cafeteria, também atua como torrefação artesanal de cafés. O local oferece grãos cultivados por pequenos produtores e uma variedade de bebidas geladas, drinks, cervejas, lanches e doces. O nome “Oop” significa “aberto” em africâner, refletindo a ideia de um espaço que conecta pessoas e ideias em torno do café</p>
+                    <a href="https://oop.cafe/" class="site-link_3">Site Oop Café</a>
+                </div>
+                <!--Slide 4-->
+                <div class="carousel-slide">
+                    <div class="place-name"><b>Freak Café - São Paulo</b></div>
+                    <div class="imag-container">
+                        <img src="contato/img/Freak_cafe.webp" alt="img_1">
+                        <img src="contato/img/freak_cafe1.jfif" alt="img_2">
+                    </div>
+                    <p>O Freak Café, localizado em Moema, oferece uma vasta seleção de bebidas quentes e geladas, incluindo quase 100 opções que vão desde o espresso até vinhos. Para acompanhar, há salgados, tortas, bolos, sanduíches, panquecas, iogurtes e saladas. O ambiente é descrito como aconchegante e ideal para quem gosta de um bom café com música agradável</p>
+                    <a href="https://www.freakcafe.com.br/" class="site-link_4">Site Freak Café</a>
+                </div>
+            </div>
+            <button id="prevButton">Anterior</button>
+            <button id="nextButton">Próximo</button>
         </div>
         <div class="instagram">
             <h2>CONTATO DA FOTOGRAFA</h2>
-            <p>Instagram / WhatsApp</p>
+            <p>Instagram / WhatsApp / Taggo</p>
             <a href="https://www.instagram.com/isa_cagninfotografia"><img src="/Site/contents/img/logo_instagram.jpg" alt="imagem_instagram"></a>
-            <a href="https://www.instagram.com/isa_cagninfotografia"><img src="/Site/contents/img/whatsapp.webp" alt="imagem_WhatsApp"></a>
+            <a href="https://api.whatsapp.com/send?phone=5516988580417&text="><img src="/Site/contents/img/whatsapp.webp" alt="imagem_WhatsApp"></a>
+            <a href="https://taggo.one/isabelafotografia"><img src="/Site/contents/img/taggo.png" alt="imagem_tago"></a>
         </div>
     </main>
     <footer>
