@@ -178,7 +178,15 @@ a:visited {
   h1, h2{
     text-align: center;
   }
-  
+  .sobre-cafe {
+    width: 95%;
+    background-color:#f7eee6;
+    justify-content: center;
+  }
+  .sobre-cafe img{
+    width: 10%;
+  }
+
   .content-aling{
     text-align: center;
     display: flex;
