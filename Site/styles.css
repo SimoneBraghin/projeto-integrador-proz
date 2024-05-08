@@ -290,3 +290,93 @@ a:visited {
   .logo{
     margin-left: 15px;
   }
+
+------------------------------------
+  body{
+    font-size: 120%;
+}
+.recomendacao {
+    margin-left: 20px;
+    margin-right: 0%;
+    width: 40%;
+    overflow:hidden;
+    background-color: #f7eee6;
+    
+}
+  
+.recomendacao img {
+    width: 50%;
+    margin-bottom: 5px;
+    display: block;
+}
+  
+.carousel-container {
+    display: flex;
+    transition: transform 0.3s;
+    width: 200%;
+}
+  
+.carousel-slide {
+    display: inline-block;
+    width: 50%;
+    position: relative;
+    flex: 0 0 50%;
+}
+  
+.place-name {
+    justify-content: center;
+    width: 95%;
+    bottom: 10px;
+    left: 10px;
+    background-color: #3a221a;
+    color: white;
+    padding: 5px;
+    padding: 10px;
+}
+  
+.site-link {
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+    background-color: #3a221a;
+    color: white;
+    padding: 5px;
+}
+button {
+    padding: 8px 20px;
+    margin: 5px;
+    background-color:#3a221a;
+    color: #f7eee6;
+    border: none;
+    cursor: pointer;
+    border-radius: 10px;
+    margin-top: 15px;
+    font-size: 20px;
+} 
+button:hover {
+    background-color: #80594a;
+}
+
+.imag-container {
+    width: 95%;
+    display: flex;
+    justify-content: center; 
+}
+p.recomendacao {
+    justify-content: center;
+    
+}
+a {
+    text-decoration: none; 
+    outline: none; 
+    border: none; 
+    color:#3a221a;
+}
+a:hover{
+    color: #80594a;
+}
+
+
+
+
+
