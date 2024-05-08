@@ -52,25 +52,30 @@ document.getElementById('postForm').addEventListener('submit', function(e) {
 
 //Configurando Carrossel
   
-  var radio = document.querySelector('.manual-btn')
+  var radios = document.querySelectorAll('.manual-btn');
 
-  var cont = 1
+var cont = 0;
 
-  document.getElementById('radio1').checked = true
+document.getElementById('radio1').checked = true;
 
-  setInterval(() => {
-    proximaImg()
-  }, 5000)
+setInterval(() => {
+    proximaImg();
+}, 5000);
 
-  function proximaImg(){
-    cont++
+radios.forEach((radio, index) => {
+    radio.addEventListener('click', () => {
+        cont = index;
+        document.getElementById('radio' + (index + 1)).checked = true;
+    });
+});
 
-    if(cont > 3){
-      cont = 1
+function proximaImg() {
+    cont++;
+
+    if (cont >= 3) {
+        cont = 0;
     }
 
-    document.getElementById('radio'+cont).checked = true
-
-
-  }
+    document.getElementById('radio' + (cont + 1)).checked = true;
+}
   
