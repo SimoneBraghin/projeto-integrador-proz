@@ -30,7 +30,7 @@ document.getElementById('postForm').addEventListener('submit', function(e) {
         <div class="post-header">
           
           <div class="post-info">
-            <h2>Nome do Usuário</h2>
+            <h4>Nome do Usuário</h4>
             <p>@usuario</p>
           </div>
         </div>
