@@ -1,0 +1,104 @@
+CREATE DATABASE projeto_cafe;
+
+CREATE TABLE Cafeteria 
+( 
+ id_cafeteria INT PRIMARY KEY,  
+ nome_cafeteria VARCHAR(50) NOT NULL,  
+ telefone CHAR(11) NOT NULL,  
+ endereco VARCHAR(50) NOT NULL  
+)
+
+CREATE TABLE Pedido 
+( 
+ id_pedido INT PRIMARY KEY,  
+ id_cafeteria INT NOT NULL,  
+ pedido_nome INT NOT NULL,  
+ pedido_quantidade INT NOT NULL,  
+ id_produto INT,  
+ id_usuario INT
+)
+
+CREATE TABLE Produto 
+( 
+ id_produto INT PRIMARY KEY,  
+ id_cafeteria INT,  
+ nome_produto VARCHAR(50) NOT NULL,  
+ preco FLOAT NOT NULL  
+)
+
+CREATE TABLE Usuario 
+( 
+ id_usuario INT PRIMARY KEY,  
+ nome_usuario VARCHAR(15) NOT NULL,  
+ telefone CHAR(11) NOT NULL,  
+ endereco VARCHAR(50)
+)
+
+INSERT INTO Cafeteria (id_cafeteria, nome_cafeteria, telefone, endereco) VALUES
+(1, 'Café do Ponto', '1122334455', 'Rua das Flores, 123'),
+(2, 'Café Expresso', '9988776655', 'Avenida dos Sabores, 456'),
+(3, 'Café Aconchego', '5544332211', 'Travessa dos Aromas, 789'),
+(4, 'Café Charme', '6677889900', 'Alameda das Delícias, 321'),
+(5, 'Café Saboroso', '1122334455', 'Rua do Café, 987');
+
+INSERT INTO Pedido (id_pedido, id_cafeteria, pedido_nome, pedido_quantidade, id_produto, id_usuario) VALUES
+(1, 1, 101, 2, 1, 1),
+(2, 2, 102, 1, 2, 2),
+(3, 3, 103, 3, 3, 3),
+(4, 4, 104, 1, 1, 4),
+(5, 5, 105, 2, 2, 5);
+
+INSERT INTO Produto (id_produto, id_cafeteria, nome_produto, preco) VALUES
+(1, 1, 'Café Expresso', 3.50),
+(2, 2, 'Cappuccino', 4.00),
+(3, 3, 'Pão de Queijo', 2.50),
+(4, 4, 'Bolo de Chocolate', 5.00),
+(5, 5, 'Croissant', 3.00);
+
+INSERT INTO Usuario (id_usuario, nome_usuario, telefone, endereco) VALUES
+(1, 'Maria', '1122334455', 'Rua das Flores, 1'),
+(2, 'João', '9988776655', 'Avenida dos Sabores, 2'),
+(3, 'Ana', '5544332211', 'Travessa dos Aromas, 3'),
+(4, 'Pedro', '6677889900', 'Alameda das Delícias, 4'),
+(5, 'Laura', '1122334455', 'Rua do Café, 5');
+
+
+CREATE TABLE ProdutoMaisVendido (
+    id_cafeteria INT PRIMARY KEY,
+    nome_cafeteria VARCHAR(50),
+    id_produto_mais_vendido INT,
+    nome_produto_mais_vendido VARCHAR(50),
+    total_vendas INT
+);
+
+INSERT INTO ProdutoMaisVendido (id_cafeteria, nome_cafeteria, id_produto_mais_vendido, nome_produto_mais_vendido, total_vendas)
+SELECT
+    c.id_cafeteria,
+    c.nome_cafeteria,
+    pmv.id_produto,
+    pr.nome_produto,
+    pmv.total_vendas
+FROM (
+    SELECT
+        id_cafeteria,
+        id_produto,
+        SUM(pedido_quantidade) AS total_vendas
+    FROM Pedido
+    GROUP BY id_cafeteria, id_produto
+) AS pmv
+JOIN Cafeteria c ON pmv.id_cafeteria = c.id_cafeteria
+JOIN Produto pr ON pmv.id_produto = pr.id_produto
+JOIN (
+    SELECT
+        id_cafeteria,
+        MAX(total_vendas) AS max_vendas
+    FROM (
+        SELECT
+            id_cafeteria,
+            id_produto,
+            SUM(pedido_quantidade) AS total_vendas
+        FROM Pedido
+        GROUP BY id_cafeteria, id_produto
+    ) AS subquery
+    GROUP BY id_cafeteria
+) AS max_vendas_per_cafeteria ON pmv.id_cafeteria = max_vendas_per_cafeteria.id_cafeteria AND pmv.total_vendas = max_vendas_per_cafeteria.max_vendas;
